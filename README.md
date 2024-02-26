@@ -14,7 +14,7 @@
 
 ### 🏗️ Architecture
 
-<img alt="architechture" src="https://github.com/RIDE-THE-WAVE/Frontend/assets/85930183/03436ace-581a-4dbf-b318-bdfdfd85a062" width="80%" >
+
 
 <br><br><br>
 
