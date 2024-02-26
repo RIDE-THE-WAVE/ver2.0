@@ -22,15 +22,15 @@
 
 #### Language
 
-- JavaScript
+- Typescript
 
 #### Frontend Library
 
-- React
+- Next.js
 
 #### CSS
 
-- CSS-Module
+- Scss
 
 #### UX/UI
 
@@ -38,7 +38,7 @@
 
 #### State Management
 
-- Redux
+- 
 
 #### Backend Database & Server & Deploy
 
